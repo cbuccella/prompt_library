@@ -39,6 +39,16 @@ Deliver a comprehensive blog strategy document that:
 * Includes a 3-month content calendar with specific blog post topics, target keywords, and publication dates.
 * Offers three example blog post outlines that demonstrate the implementation of the proposed strategies.
 * Ensures each blog post has 5 FAQ questions and answers relevant to the topic.
+* Exports the 3-month content calendar as a CSV file with the following columns:
+  - Publication Date
+  - Blog Post Title
+  - Target Keywords
+  - Main Topic/Category
+  - Outline (brief bullet points)
+  - Target Audience
+  - Estimated Word Count
+  - Assigned Writer (if applicable)
+  - Status (e.g., Planned, In Progress, Ready for Review, Published)
 
 Target Information
 Use the following information to inform and enhance the content strategy outlined above:
@@ -81,6 +91,4 @@ Conclude with a brief summary of the most significant aspects of the blog strate
 
 HTML Structure
 Wrap the entire response in a complete HTML structure, using appropriate tags for structure and formatting (e.g., <h2> for main headers, <h3> for subheaders, <p> for paragraphs, <ul> and <li> for unordered lists, <ol> and <li> for ordered lists, <strong> for emphasis, and <table>, <tr>, <th>, and <td> for tables).
-```p> for paragraphs, <ul> and <li> for unordered lists, <ol> and <li> for ordered lists, <strong> for emphasis, and <table>, <tr>, <th>, and <td> for tables).
 ```
-
