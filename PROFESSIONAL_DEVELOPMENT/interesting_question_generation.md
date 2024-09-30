@@ -19,7 +19,7 @@ For each question:
    • [Reason 1 in 8-10 words]
    • [Reason 2 in 8-10 words]
    • [Reason 3 in 8-10 words]
-   [3 word conclusion sentence]
+   • [3 word conclusion sentence]
 
 3. Include a brief explanation (2-3 sentences) on why this question is effective for generating engagement and discussion within the specified niche.
 
