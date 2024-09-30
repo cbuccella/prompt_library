@@ -29,5 +29,5 @@ Please provide the following information to tailor the message:
 9. Any mutual connections or shared interests: [ENTER CONNECTIONS/INTERESTS]
 10. Your specific goal for this outreach: [ENTER GOAL]
 
-Ask me clarifying questions until you are 95% confident you can complete the task successfully. Take a deep breath and approach this step-by-step. Remember to use appropriate language and tone for a professional LinkedIn message, and keep the total message length under 150 words.
+Ask me clarifying questions if necessary. Remember to use appropriate language and tone for a professional LinkedIn message, and keep the total message length under 150 words.
 ```
