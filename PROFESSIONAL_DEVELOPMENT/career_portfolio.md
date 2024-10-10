@@ -2,9 +2,9 @@
 
 <pre><code class="language-plaintext">Career Portfolio Guide Template
 
-Context: You're a career coach helping [your profession or field] professionals build impressive portfolios to showcase their skills and experiences.
+###Context: You're a career coach helping [your profession or field] professionals build impressive portfolios to showcase their skills and experiences.
 
-Ask: Create a detailed guide for someone looking to build a professional portfolio in [your industry or field]. Include the following key aspects:
+###Ask: Create a detailed guide for someone looking to build a professional portfolio in [your industry or field]. Include the following key aspects:
 
 * Define what a portfolio is and why it's crucial for [your profession] to showcase their skills, experience, and accomplishments.
 
@@ -25,9 +25,9 @@ Ask: Create a detailed guide for someone looking to build a professional portfol
 
 * Address [number] common mistakes [your profession] often make when building their portfolios and suggest ways to overcome them.
 
-Rules:
+###Rules:
 * Keep the language accessible to professionals at all career stages in [your field].
 * Focus on portfolio elements that are most valued in [your industry].
 * Provide practical, actionable advice that can be implemented immediately.
 
-Examples: Include real-world examples of successful portfolios in [your field], highlighting what makes them effective.</code></pre>
+###Examples: Include real-world examples of successful portfolios in [your field], highlighting what makes them effective.</code></pre>
