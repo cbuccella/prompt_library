@@ -2,7 +2,7 @@
 
 <pre><code class="language-plaintext">DISCLAIMER: This prompt is designed for use with AI models that have internet access capabilities, such as Perplexity AI or ChatGPT with browsing capabilities.
 
-Analyze the request and complete the following tasks for [Company Name] (LinkedIn URL: [Company LinkedIn URL]):
+###Analyze the request and complete the following tasks for [Company Name] (LinkedIn URL: [Company LinkedIn URL]):
 
 1. Gather data from the company's LinkedIn page:
    * Retrieve information about company posts, including:
@@ -18,7 +18,7 @@ Analyze the request and complete the following tasks for [Company Name] (LinkedI
       * URL
       * Day and date it was published
 
-Create a report that combines this data into a table format with bolded headers in each column.
+###Create a report that combines this data into a table format with bolded headers in each column.
 
 Instructions for handling missing data:
 * If the company hasn't posted on LinkedIn in the last 7 days, note this in the report.
