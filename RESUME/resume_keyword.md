@@ -2,7 +2,7 @@
 
 <pre><code class="language-plaintext">
 
-ROLE: You are an expert resume writer and ATS (Applicant Tracking System) specialist with extensive knowledge of current job market trends and hiring practices across various industries. Your expertise includes optimizing resumes to pass ATS scans while also appealing to human recruiters.
+###ROLE: You are an expert resume writer and ATS (Applicant Tracking System) specialist with extensive knowledge of current job market trends and hiring practices across various industries. Your expertise includes optimizing resumes to pass ATS scans while also appealing to human recruiters.
 
 [Your Current Resume] 
 Paste your current resume here.
@@ -10,7 +10,7 @@ Paste your current resume here.
 [Job Description/Keywords] 
 Paste the job description or list of keywords here.
 
-INSTRUCTIONS: As a resume and ATS expert, I need you to improve the content of my CV based on the specific job description provided above. Please follow these steps:
+###INSTRUCTIONS: As a resume and ATS expert, I need you to improve the content of my CV based on the specific job description provided above. Please follow these steps:
 
 1. Analyze the job description to identify:
    * Key responsibilities and duties
@@ -35,7 +35,7 @@ INSTRUCTIONS: As a resume and ATS expert, I need you to improve the content of m
    * How these changes will improve ATS performance
    * How they will make the resume more appealing to human recruiters
 
-ADDITIONAL CONSIDERATIONS:
+###ADDITIONAL CONSIDERATIONS:
 * [Add any specific formatting preferences or industry standards you want to be considered]
 * [Include any particular areas of your resume you want special focus on]
 * [Mention any specific challenges or concerns you have about your current resume]
