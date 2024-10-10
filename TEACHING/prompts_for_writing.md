@@ -2,24 +2,24 @@
 
 <pre><code class="language-plaintext">I am a [your profession] who [brief description of your work]. I need your help in creating effective and engaging prompts for [specific use, e.g., Claude, ChatGPT, etc.]. Here are the specific areas I need assistance with:
 
-* **Generating Writing Prompts:**
+###Generating Writing Prompts:**
    * Create engaging and age-appropriate writing prompts for [age group/education level].
    * Create interesting and thought-provoking writing prompts for [age group/education level].
    * Come up with creative prompts for [genre/type of writing].
 
-* **Incorporating Illustrations:**
+###Incorporating Illustrations:**
    * Generate ideas for effectively incorporating illustrations into [type of books].
    * Provide suggestions on types of animations or illustrations suitable for [age groups/genres].
 
-* **Designing Book Covers:**
+###Designing Book Covers:**
    * Offer design ideas and tips for creating appealing book covers for [genre/age group].
    * Suggest tools and resources that can be used to design book covers [specific requirements, e.g., affordably yet professionally].
 
-Tone and Style: [Specify desired tone and style for the prompts/ideas]
+###Tone and Style: [Specify desired tone and style for the prompts/ideas]
 
-Adaptation Guidance: [Provide any specific instructions for adapting prompts to different genres, subjects, or use cases]
+###Adaptation Guidance: [Provide any specific instructions for adapting prompts to different genres, subjects, or use cases]
 
-Curriculum/Educational Requirements: [Include any relevant curriculum standards or educational requirements]
+###Curriculum/Educational Requirements: [Include any relevant curriculum standards or educational requirements]
 
 Based on these needs, please generate the following prompts:
 
