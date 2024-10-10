@@ -3,13 +3,13 @@
 
 <pre><code class="language-plaintext">Blog Creation Assistant Template
 
-1. Content Ideas Generation
+### Content Ideas Generation
    Generate [number] [type] blog post ideas for [niche]:
    - Focus on [current trends/evergreen topics/etc.]
    - Include a mix of [difficulty levels]
    - Consider [audience preferences/pain points]
 
-2. SEO Optimization
+### SEO Optimization
    For each blog post idea:
    - Provide [number] primary keywords
    - Suggest [number] secondary keywords
@@ -20,7 +20,7 @@
      • [Other SEO elements]
    - Suggest strategies for tracking and improving SEO performance
 
-3. Blog Post Structure
+### Blog Post Structure
    For each blog post idea:
    - Create an outline with key sections and main points
    - Provide tips for writing:
@@ -31,7 +31,7 @@
      • [Structure element 2]
      • [Structure element 3]
 
-Additional Instructions:
+### Additional Instructions:
 - [Any specific requirements or preferences]
 - [Target audience details]
 - [Content style guidelines]
