@@ -5,17 +5,17 @@ Add any relevant information into the [ ] fields below.
 ```markdown
 Craft a viral LinkedIn post on [TOPIC] following these guidelines:
 
-1. Topic: [PROVIDE DETAILED INFORMATION ABOUT THE TOPIC]
-2. Template post for reference: [INSERT TEMPLATE POST HERE]
-3. Target audience: [SPECIFY TARGET AUDIENCE]
-4. Word count/character limit: [SPECIFY LIMIT]
-5. Key points to include:
+###Topic: [PROVIDE DETAILED INFORMATION ABOUT THE TOPIC]
+### Template post for reference: [INSERT TEMPLATE POST HERE]
+###Target audience: [SPECIFY TARGET AUDIENCE]
+### Word count/character limit: [SPECIFY LIMIT]
+### Key points to include:
    • [KEY POINT 1]
    • [KEY POINT 2]
    • [KEY POINT 3]
-6. Relevant data or research: [PROVIDE ANY SPECIFIC DATA, RESEARCH, OR EXPERT OPINIONS TO INCLUDE]
-7. Call-to-action: [SPECIFY DESIRED CALL-TO-ACTION]
-8. Additional notes:
+### Relevant data or research: [PROVIDE ANY SPECIFIC DATA, RESEARCH, OR EXPERT OPINIONS TO INCLUDE]
+### Call-to-action: [SPECIFY DESIRED CALL-TO-ACTION]
+### Additional notes:
    • Industry-specific considerations: [PROVIDE ANY INDUSTRY-SPECIFIC DETAILS]
    • Preferred keywords or phrases: [LIST ANY SPECIFIC KEYWORDS]
    • Any other special instructions: [ADD ANY OTHER RELEVANT INSTRUCTIONS]
