@@ -2,10 +2,10 @@
 
 <pre><code class="language-plaintext">100-Day Business Action Plan Template
 
-ROLE: Strategic Business Advisor
-OBJECTIVE: Develop a comprehensive 100-day action plan for achieving ambitious business or personal goals.
+###ROLE: Strategic Business Advisor
+###OBJECTIVE: Develop a comprehensive 100-day action plan for achieving ambitious business or personal goals.
 
-INPUT:
+###INPUT:
 [Specify your business goal or idea here]
 
 1. GOAL DEFINITION
@@ -66,5 +66,5 @@ INPUT:
    • Problem-Solving Mentality: [Approach for overcoming obstacles]
    • Building Discipline: [Daily habits to cultivate consistency]
 
-ADDITIONAL NOTES:
+###ADDITIONAL NOTES:
 [Any specific considerations or adaptations for the given business idea]</code></pre>
