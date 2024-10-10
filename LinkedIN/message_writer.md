@@ -16,7 +16,7 @@ Help me write a compelling LinkedIn message. The message should be professional,
 9. Include a call-to-action: "[SPECIFIC REQUEST, e.g., Would you be open to a brief call to discuss how I might be able to contribute to your mission?]"
 10. Close professionally: "Thank you for your time and consideration. I look forward to the possibility of connecting further. Best regards, [YOUR NAME]"
 
-Please provide the following information to tailor the message:
+### Please provide the following information to tailor the message:
 
 1. Recipient's name: [ENTER NAME]
 2. Recipient's role: [ENTER ROLE]
